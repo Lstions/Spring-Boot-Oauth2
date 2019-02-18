@@ -1,5 +1,5 @@
 /target/
-/.vscode/
+/.vscode
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
